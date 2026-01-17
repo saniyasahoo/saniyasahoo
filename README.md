@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hellooo!👋
 
 # 💫 About Me:
 Hey! I’m Saniya 😎  <br>I talk to computers… and they listen (sometimes) 🤖  <br>Code • Debug • Repeat 🔁  <br>Currently leveling up in AI, Cyber Security & Web Dev 🚀
