@@ -30,12 +30,12 @@ Currently leveling up in AI, Cyber Security & Web Dev 🚀
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=saniyasahoo&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=impopsterji&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=saniyasahoo&theme=radical&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=impopsterji&theme=radical&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saniyasahoo&theme=radical&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=impopsterji&theme=radical&hide_border=false&layout=compact)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=saniyasahoo&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=impopsterji&icon=0&color=0)](https://visitcount.itsvg.in)
